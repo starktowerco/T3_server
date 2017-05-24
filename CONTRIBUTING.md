@@ -124,3 +124,4 @@ no problem getting your changes merged in.
 [workflow diagram](http://i.imgur.com/p0e4tQK.png)
 
 [What happens if you merge instead of rebase](https://f.cloud.github.com/assets/1577682/1458274/1391ac28-435e-11e3-88b6-69c85029c978.png)
+
