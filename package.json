@@ -1,0 +1,19 @@
+{
+  "name": "t3_server",
+  "version": "1.0.0",
+  "description": "Server for T3 tick tac toe game.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha serverSpec.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/starktowerco/T3_server.git"
+  },
+  "author": "starktowerco",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/starktowerco/T3_server/issues"
+  },
+  "homepage": "https://github.com/starktowerco/T3_server#readme"
+}
